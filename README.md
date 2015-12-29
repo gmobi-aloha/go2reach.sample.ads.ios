@@ -5,6 +5,7 @@ Register your application in Go2Reach backend and add the "Go2ReachADKey" key in
 ```xml
 <key>Go2ReachADKey</key>
 <string>563095ffd59f040f5ed5c664</string>
+```
 
 Open sdk log
 ```objective-c
